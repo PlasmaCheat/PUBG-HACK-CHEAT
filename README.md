@@ -17,7 +17,5 @@ Knocked – if this parameter is activated, then cheat will work on knocked oppo
 Vehicles – drawing transport, you can display the distance to objects and their names.
 AirDrop – shows an airdrop, you can configure the display of the distance to it and see the items inside.
 DeathItems – loot in drop of killed players. You can customize in detail what to display and what is not needed.
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/109004173/178125628-03369697-5ec7-4edf-987e-739c984b8216.png)
+
